@@ -2,7 +2,7 @@
 A dashboard that does a sentiment analysis on trending tweets
 
 
-#LINKS
+### Links
 
 1. Sentiment Analysis
    https://www.npmjs.com/package/sentiment
